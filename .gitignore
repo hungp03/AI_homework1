@@ -1,0 +1,6 @@
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore other temporary or generated files
+__pycache__/
+.DS_Store
